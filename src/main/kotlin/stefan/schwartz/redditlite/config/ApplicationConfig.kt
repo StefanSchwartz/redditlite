@@ -1,4 +1,4 @@
-package stefan.schwartz.redditlite
+package stefan.schwartz.redditlite.config
 
 import org.springframework.boot.CommandLineRunner
 import org.springframework.context.ApplicationContext

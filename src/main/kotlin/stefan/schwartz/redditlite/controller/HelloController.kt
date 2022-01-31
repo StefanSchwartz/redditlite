@@ -1,4 +1,4 @@
-package stefan.schwartz.redditlite
+package stefan.schwartz.redditlite.controller
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
